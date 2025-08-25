@@ -126,4 +126,3 @@ Visit **[http://localhost:3000](http://localhost:3000)** in your browser.
 
 ---
 
-👉 Would you like me to also **polish this README with some screenshots/badges (e.g., build status, tech logos, demo GIF)** so it looks like a proper GitHub project page?
