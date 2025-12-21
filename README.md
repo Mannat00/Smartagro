@@ -30,7 +30,6 @@ The project combines a **Next.js frontend** with an integrated **Python machine 
 * **scikit-learn** – Machine learning (DecisionTreeClassifier / RandomForestClassifier)
 * **joblib** – Model persistence (`crop_model.pkl`)
 * **Custom modules**:
-
   * `mainfn.py` – Entry point for recommendations
   * `rec_model.py` – Loads ML model
   * `weather.py` – Provides state-wise weather data
@@ -119,10 +118,10 @@ Visit **[http://localhost:3000](http://localhost:3000)** in your browser.
 
 ## 🚀 Future Enhancements
 
-* 🌐 Real-time weather API integration
 * 📊 Dashboard for multiple crop comparisons
 * 💾 Persistent storage of user queries and results
-* 📱 Mobile-friendly UI
+* 📱 Mobile-friendly UI and Voice assistance
+* 🌐 Real-time weather API integration
 
 ---
 
